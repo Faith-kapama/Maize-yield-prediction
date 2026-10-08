@@ -1,0 +1,17 @@
+[
+    "region",
+    "season",
+    "farm_area",
+    "seed_type",
+    "irrigation",
+    "fertilizer_use_clean",
+    "fertilizer_rate_clean",
+    "growing_rainfall_mm",
+    "growing_temperature_c",
+    "growing_soil_moisture",
+    "planting_month",
+    "improved_seed_used",
+    "traditional_seed_used",
+    "recycled_seed_used",
+    "seed_quantity"
+]
